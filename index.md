@@ -7,7 +7,7 @@ _This is Italic_
 
 [Markdown Cheat Sheet](https://commonmark.org/help/)
 
-![Cat]([https://ggsc.s3.amazonaws.com/images/uploads/](https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg))
+![Cat](https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg)
 
 ---
 
