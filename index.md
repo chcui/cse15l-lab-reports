@@ -23,7 +23,7 @@ _This is Italic_
 
 `This is a line of code.`
 
-`
+```
 This is a block of code.
 Hello World!
-`
+```
